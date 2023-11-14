@@ -11,13 +11,6 @@
 
 int main(__attribute__((unused))int argc, char **argv)
 {
-    char *input,**cmd;
-    int stat = 1;
-
-    while(stat)
-    {
-       input = get_input();
-       cmd = tokenizer();
-    }
+   
     
 }
